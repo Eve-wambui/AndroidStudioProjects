@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.emobilis.kitchenyetu.Recipe">
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="178dp"
+        android:layout_height="195dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="14dp"
+        app:srcCompat="@drawable/t" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="178dp"
+        android:layout_height="195dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/imageButton"
+        app:srcCompat="@drawable/v" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="178dp"
+        android:layout_height="195dp"
+        android:layout_alignStart="@+id/imageButton"
+        android:layout_below="@+id/imageButton"
+        android:layout_marginTop="49dp"
+        app:srcCompat="@drawable/w" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="178dp"
+        android:layout_height="195dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/imageButton3"
+        app:srcCompat="@drawable/x" />
+</RelativeLayout>

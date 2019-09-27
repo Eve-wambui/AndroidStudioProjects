@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">KITCHENYETU</string>
+    <string name="textViewf">INGREDIENTS</string>
+    <string name="textView5">  1 cup self-raising flour  </string>
+    <string name="textViewb">  1 cup milk  </string>
+    <string name="textViewc">  1 egg  </string>
+    <string name="textViewd">  5 tbs maple syrup  </string>
+    <string name="textViewe">  1 tsp butter  </string>
+    <string name="textViewG">  DIRECTIONS  </string>
+    <string name="textViewh">  Preheat a non stick frying pan. Add butter and melt it around the pan. 
+        Place the flour in a small mixing bowl. Make a well in the center and
+    add the egg.Stir together a little bit and start adding the milk slowly until 
+        well combined. Add the maple syrup into the butter and stir. Pour butter in a jug and then pour 
+        the butter into the frying pan.Tilt the frying pan to spread the butter. Once bubbles form on the top,
+    flip the pancake over.Repeat with remaining butter. Serve with toppings of choice.</string>
+
+    <string name="textView12">Home of Tasty,Quality and Affordable Foods</string>
+    <string name="textView13">KitchenYetu is your kitchen away from your home-kitchen.
+    </string>
+    <string name="textViewz">Delicious Pasta</string>
+    <string name="textViewy">Ingredients</string>
+    <string name="textViewzz">1 tbs olive oil</string>
+    <string name="textViewyz">1 large onion, chopped</string>
+    <string name="textViewz1">3 large cloves garlic, minced</string>
+    <string name="textViewz2">2 cans tomato sauce</string>
+    <string name="textViewz4">1 can diced tomatoes</string>
+    <string name="textViewz5">3/4 cup Merlot wine</string>
+    <string name="textViewz6">3 tbs chicken bouillon granules</string>
+    <string name="textViewz7">3 tbs dried basil leaves</string>
+    <string name="textViewz8">3 tbs Italian seasoning</string>
+    <string name="textViewz9">salt and ground black pepper to taste</string>
+    <string name="textViewz10">DIRECTIONS</string>
+    <string name="textViewz11">Heat olive oil in a large sauce pan over medium heat. Cook and stir
+    onion and garlic in hot oil until the onion in translucent,5 to 7 minutes. Sit tomato sauce, diced tomatoes,
+    wine, tomato paste, chicken buillon granules, basil, Italian seasoning, salt, and pepper with the
+    onion mixture to a boil, reduce heat to low, and cook at a simmer, stirring frequently for one hour.ENJOY!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.emobilis.kitchenyetu.pasta">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/x" />
+
+        <TextView
+            android:id="@+id/textViewz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz"
+            android:textSize="30sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/textViewy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewy"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewzz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewzz"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView6yz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewyz"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz1"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz2"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz4"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz5"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz6"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz7"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz8"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz9"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewz10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz10"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewz11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewz11"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</ScrollView>

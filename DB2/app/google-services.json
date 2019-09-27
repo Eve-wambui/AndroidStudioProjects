@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "538904644984",
+    "firebase_url": "https://dbase-f1b88.firebaseio.com",
+    "project_id": "dbase-f1b88",
+    "storage_bucket": "dbase-f1b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538904644984:android:58aceb881a726f1b",
+        "android_client_info": {
+          "package_name": "com.example.hp.db2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538904644984-72k8dfgvfdfjae937dql73lj9ir48415.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_UhbRjh3g8hhlvxs9zCZhwakfFvEvzpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

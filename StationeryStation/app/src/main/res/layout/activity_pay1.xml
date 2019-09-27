@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pay1"
+    android:background="@android:color/holo_purple"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPESA PAYMENT STEPS"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30dp"
+        android:textStyle="normal"
+        android:background="@drawable/tvback"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:text="1.Once the SimToolkit has been launched, choose Safaricom"
+        android:textColor="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:text="2.Click the MPESA option"
+        android:textColor="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:text="3.Go to the Lipa na MPESA option"
+        android:textColor="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:text="4.Use Buy Goods and Services Option"
+        android:textColor="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:text="6.Enter till number 55567"
+        android:textColor="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:text="7. Enter the total purchase amount"
+        android:textColor="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:text="8.Input MPESA pin"
+        android:textColor="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="21dp"
+        android:text="9.Wait for the MPESA confirmation message"
+        android:textColor="@android:color/darker_gray"/>
+    <Button
+        android:id="@+id/sim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LAUNCH SIMTOOLKIT"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="THANK YOU FOR CHOOSING STATIONERYSTATION 😍😀"
+        android:textSize="21dp"/>
+
+</LinearLayout>

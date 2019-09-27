@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hp.stationerystation">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".Exercise" />
+        <activity android:name=".Notebook" />
+        <activity android:name=".PenPencil" />
+        <activity android:name=".color" />
+        <activity android:name=".squaredsales" />
+        <activity android:name=".pay1" />
+        <activity android:name=".intro" />
+        <activity android:name=".callit" />
+        <activity android:name=".ruledsales" />
+        <activity android:name=".graphsales" />
+        <activity android:name=".musicsales" />
+        <activity android:name=".cutesales" />
+        <activity android:name=".plannersales" />
+        <activity android:name=".journalsales" />
+        <activity android:name=".spiralsales" />
+        <activity android:name=".ballpointsales" />
+        <activity android:name=".hbsales" />
+        <activity android:name=".fountainsales" />
+        <activity android:name=".gelsales" />
+        <activity android:name=".craysales" />
+        <activity android:name=".marksales" />
+        <activity android:name=".cpsales" />
+        <activity android:name=".hlightsales"></activity>
+    </application>
+
+</manifest>

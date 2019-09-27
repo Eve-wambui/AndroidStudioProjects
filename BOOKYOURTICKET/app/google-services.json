@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297170709688",
+    "firebase_url": "https://bookyourticket-5f913.firebaseio.com",
+    "project_id": "bookyourticket-5f913",
+    "storage_bucket": "bookyourticket-5f913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297170709688:android:76d2f7baacfbf894",
+        "android_client_info": {
+          "package_name": "com.example.hp.bookyourticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297170709688-41doalk9g6f4k1mjdm3ci6ju5k18jnvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmZdEQTqAySkN2gLXtp41wmauRVyz6NE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
